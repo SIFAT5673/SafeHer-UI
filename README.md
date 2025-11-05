@@ -1,8 +1,7 @@
 
   # SafeHer UI
 
-  This is a code bundle for SafeHer UI. The original project is available at https://www.figma.com/design/qeoEkjKX48oaXx3jZ3kKuq/SafeHer-UI.
-
+  This is a code bundle for SafeHer UI. 
   ## Running the code
 
   Run `npm i` to install the dependencies.
